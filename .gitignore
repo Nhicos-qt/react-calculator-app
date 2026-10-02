@@ -1,0 +1,19 @@
+# Build cache
+node_modules/
+dist/
+.env
+.env.local
+.env.*.local
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS files
+.DS_Store
+Thumbsthumbdrive.db
